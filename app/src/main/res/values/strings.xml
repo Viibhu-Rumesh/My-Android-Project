@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Viibhu Application</string>
+    <string name="username">Username or E-mail</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login">Login</string>
+</resources>
